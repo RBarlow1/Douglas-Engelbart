@@ -1,6 +1,6 @@
 var answerButtons = document.getElementsByClassName("quizButton");
-var question = "Which of the following is a school color?";
-var answers = ['Red', 'Green', 'Blue', 'Yellow'];
+var question = "What is Douglas Engelbart best known for?";
+var answers = ['His Navy Service', 'Created the internet', 'Was a professor at Oregon State University', 'Invented the computer mouse'];
 var correct = 3;
 
 document.getElementsById;("question").innerHTML = question;
